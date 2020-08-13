@@ -11,3 +11,5 @@ middleware/demo.go
 config/settings.dev.b.yml
 temp/logs
 *.exe
+config/settings.dev.yml.log
+config/settings.b.dev.yml
